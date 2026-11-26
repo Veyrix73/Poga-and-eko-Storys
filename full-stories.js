@@ -1,7 +1,7 @@
 // Season 1 Parts 4–6 are transcribed from the preserved story chat. Other chapters are reconstructed from available plot notes.
 // Season 3 Parts 6–12 remain in index.html as the preserved full versions.
 const expandedStories = {
-"1-1": \`POGA & EKO — PART 1: THE BEGINNING
+"1-1": `POGA & EKO — PART 1: THE BEGINNING
 Latvia, 1991.
 
 The launch site was packed. People had gathered to watch the biggest space mission the country had ever attempted. At the centre of the platform stood two astronauts: Poga, a gray cat, and Eko, a corgi.
@@ -30,8 +30,8 @@ Earth grew smaller in the window. Latvia disappeared beneath the clouds, and the
 
 MISSION CONTROL: "Poga, Eko, welcome to space."
 
-Their mission had officially begun.\`,
-"1-2": \`PART 2: THE FLYING CARROTS
+Their mission had officially begun.`,
+"1-2": `PART 2: THE FLYING CARROTS
 Location: Outer Space.
 
 The shuttle travelled quietly through orbit. Poga monitored the navigation display while Eko floated near the food compartment, holding a hotdog.
@@ -66,8 +66,8 @@ POGA: "Brace for impact."
 
 Eko looked at the hotdog in his paw.
 
-EKO: "At least I saved lunch."\`,
-"1-3": \`PART 3: THE HOTDOG POWER-UP
+EKO: "At least I saved lunch."`,
+"1-3": `PART 3: THE HOTDOG POWER-UP
 Location: Carrot Planet.
 
 The escape pod crashed into a rocky field. Smoke drifted from its damaged engine. Poga and Eko climbed out and looked across an orange landscape covered in strange carrot-shaped buildings.
@@ -101,8 +101,8 @@ CARROT KING: "You have entered the territory of the Vegetable Empire. Your plane
 
 Poga and Eko looked at the army gathering behind the tank.
 
-Their mission had become a war.\`,
-"1-4": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+Their mission had become a war.`,
+"1-4": `POGA & EKO: THE GREAT SPACE CARROT INCIDENT
 PART 4 — EKO'S REVENGE
 Location: Carrot Planet • Year: 1991
 
@@ -192,8 +192,8 @@ The Carrot King appeared on the giant communication screen.
 
 "YOU HAVE JUST ACTIVATED THE FINAL STAGE."
 
-END OF PART 4.\`,
-"1-5": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+END OF PART 4.`,
+"1-5": `POGA & EKO: THE GREAT SPACE CARROT INCIDENT
 PART 5 — THE CARROT BATTLE
 Location: Carrot Planet • Year: 1991
 Mission Status: TOTAL CHAOS
@@ -316,8 +316,8 @@ The screen flashed.
 
 NEXT DESTINATION: POTATO GALAXY.
 
-END OF PART 5.\`,
-"1-6": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+END OF PART 5.`,
+"1-6": `POGA & EKO: THE GREAT SPACE CARROT INCIDENT
 PART 6 — THE AWAKENING
 Location: Earthbound Shuttle • Year: 1991
 Mission Status: RETURNING TO EARTH
@@ -443,8 +443,8 @@ For the first time in weeks, everything was quiet.
 
 Their mission was finally coming to an end.
 
-END OF PART 6.\`,
-"1-7": \`PART 7: THE HOTDOG
+END OF PART 6.`,
+"1-7": `PART 7: THE HOTDOG
 Location: Deep space.
 
 The shuttle was quiet again. Eko opened the food compartment and discovered hotdogs floating freely through the cabin.
@@ -483,8 +483,8 @@ Poga shut down the affected compartment and isolated the signal. The shuttle sho
 The Carrot King's image vanished.
 
 POGA: "Next time, ask before eating space food."
-EKO: "No promises."\`,
-"1-8": \`PART 8: THE AMBUSH
+EKO: "No promises."`,
+"1-8": `PART 8: THE AMBUSH
 Location: Shuttle, deep space.
 
 Eko opened the outer hatch and carefully floated outside. The shuttle's sensors showed movement nearby.
@@ -514,8 +514,8 @@ EKO: "And miss the exercise?"
 
 Poga checked the radar. The retreating soldiers were transmitting a signal toward Jupiter.
 
-The shuttle changed course slightly to avoid their route.\`,
-"1-9": \`PART 9: THE JUPITER INCIDENT
+The shuttle changed course slightly to avoid their route.`,
+"1-9": `PART 9: THE JUPITER INCIDENT
 Location: Near Jupiter.
 
 The shuttle approached Jupiter. Eko looked out of the cockpit window and noticed something unusual.
@@ -543,8 +543,8 @@ Poga began recording the unknown objects.
 POGA: "We need to know what they are."
 EKO: "We can know from far away."
 
-The shuttle moved away from the floating astronauts and the strange formation of keys.\`,
-"1-10": \`PART 10: THE KEY ATTACK
+The shuttle moved away from the floating astronauts and the strange formation of keys.`,
+"1-10": `PART 10: THE KEY ATTACK
 Location: Jupiter orbit.
 
 The keys suddenly accelerated toward the shuttle. Their metal bodies unfolded into sharp mechanical shapes, and the first wave struck the outer hull.
@@ -570,8 +570,8 @@ The keys finally broke away and disappeared toward Jupiter.
 
 Eko steadied the shuttle. The hull was damaged, the engine warnings remained active, and the two captured rabbits were now their only source of information.
 
-POGA: "Let's ask our passengers some questions."\`,
-"1-11": \`PART 11: THE RABBIT INTERROGATION
+POGA: "Let's ask our passengers some questions."`,
+"1-11": `PART 11: THE RABBIT INTERROGATION
 Location: Shuttle, near Jupiter.
 
 Poga placed the two captured rabbits in a secure compartment and activated the recording system.
@@ -602,8 +602,8 @@ The rabbits explained that the keys were still tracking them. Their attack had n
 The shuttle's damaged systems beeped again.
 
 EKO: "Can we please have one normal flight?"
-POGA: "No."\`,
-"1-12": \`PART 12: THE LAST BOOST
+POGA: "No."`,
+"1-12": `PART 12: THE LAST BOOST
 Location: Deep space, leaving Jupiter.
 
 The two rabbits remained inside the reinforced compartment. Suddenly, a violent flash lit the cabin. The rabbits' internal devices detonated, leaving blue liquid across the compartment.
@@ -633,8 +633,8 @@ POGA: "Obviously."
 
 The shuttle accelerated toward Earth.
 
-SEASON 1 — END.\`,
-"2-1": \`SEASON 2 — PART 1: THE KEYS RETURN
+SEASON 1 — END.`,
+"2-1": `SEASON 2 — PART 1: THE KEYS RETURN
 Location: Deep space.
 
 The shuttle continued flying through space. Poga was recovering from the injuries and exhaustion of the previous mission, while Eko sat nearby eating hotdogs.
@@ -658,8 +658,8 @@ The Key formation maintained a steady distance. Their engines adjusted whenever 
 
 Poga recorded their movement and kept the defensive systems ready.
 
-For now, the keys did not attack.\`,
-"2-2": \`SEASON 2 — PART 2: THE KNIFE ATTACK
+For now, the keys did not attack.`,
+"2-2": `SEASON 2 — PART 2: THE KNIFE ATTACK
 Location: Deep space.
 
 The keys continued following the shuttle. Eko watched their formation on the rear camera.
@@ -688,8 +688,8 @@ EKO: "WHY DID THEY WAIT UNTIL NOW?!"
 
 Poga rushed to the damaged section while Eko fought to keep the shuttle under control.
 
-The attack had turned their quiet journey into another emergency.\`,
-"2-3": \`SEASON 2 — PART 3: THE FALL
+The attack had turned their quiet journey into another emergency.`,
+"2-3": `SEASON 2 — PART 3: THE FALL
 Location: Deep space.
 
 The knife attack continued. The shuttle shook as another impact struck the side of the cabin.
@@ -714,8 +714,8 @@ The keys continued their attack, forcing him to concentrate on survival.
 
 The shuttle moved farther away.
 
-For the first time, Eko was alone.\`,
-"2-4": \`PART 4: THE GRIEF
+For the first time, Eko was alone.`,
+"2-4": `PART 4: THE GRIEF
 Location: Shuttle, deep space.
 
 The shuttle flew through the darkness. The cabin felt larger without Poga in it.
@@ -740,8 +740,8 @@ He continued flying, following the route toward the nearest safe place.
 
 There was no answer from Poga. No movement from the empty medical bed.
 
-Only the sound of the engines accompanied him.\`,
-"2-5": \`PART 5: THE CARROT ABDUCTION
+Only the sound of the engines accompanied him.`,
+"2-5": `PART 5: THE CARROT ABDUCTION
 Location: Deep space.
 
 Eko flew alone through a field of drifting debris. The shuttle's radar detected a transport ship ahead.
@@ -766,8 +766,8 @@ EKO: "I'm coming."
 
 The carrot vessel disappeared into the distance, heading toward an unknown destination.
 
-Eko followed its trail.\`,
-"2-6": \`PART 6: THE REBUILD
+Eko followed its trail.`,
+"2-6": `PART 6: THE REBUILD
 Location: Moon.
 
 Eko's damaged shuttle could not keep up with the carrot transport. He needed a safe place to repair it.
@@ -788,8 +788,8 @@ EKO: "Full throttle."
 
 The engines ignited. The shuttle lifted from the lunar surface and accelerated into space.
 
-Eko followed the transport's signal, determined to reach Poga.\`,
-"2-7": \`PART 7: THE GREAT WAR
+Eko followed the transport's signal, determined to reach Poga.`,
+"2-7": `PART 7: THE GREAT WAR
 Location: Deep space.
 
 Eko reached the coordinates of the carrot transport and found an enormous battle already underway.
@@ -808,8 +808,8 @@ A carrot ship turned toward him. Before it could attack, a group of keys interce
 
 Eko kept moving through the battle, trying to locate the transport.
 
-The fight between the carrots and keys spread across the entire region. Neither side seemed willing to retreat.\`,
-"2-8": \`PART 8: THE ALLIANCE
+The fight between the carrots and keys spread across the entire region. Neither side seemed willing to retreat.`,
+"2-8": `PART 8: THE ALLIANCE
 Location: Deep space battlefield.
 
 Eko noticed that the keys were not attacking his shuttle. Instead, several moved into formation around him.
@@ -834,8 +834,8 @@ For the first time, the strange machines from Jupiter appeared to be on his side
 
 EKO: "Okay. I guess we're friends now."
 
-The formation continued toward the transport.\`,
-"2-9": \`PART 9: SKILL ISSUE
+The formation continued toward the transport.`,
+"2-9": `PART 9: SKILL ISSUE
 Location: Kingdom of Carrots.
 
 Eko and the keys finally reached the carrot transport. It was surrounded by a powerful defensive bubble and a large number of guards.
@@ -862,8 +862,8 @@ Eko watched the signal flicker on the radar.
 
 EKO: "No, no, no..."
 
-The transport's self-destruct sequence had begun.\`,
-"3-1": \`SEASON 3 — PART 1: THE KINGDOM ASSAULT
+The transport's self-destruct sequence had begun.`,
+"3-1": `SEASON 3 — PART 1: THE KINGDOM ASSAULT
 Location: Kingdom of Carrots.
 
 The allied fleet approached the Kingdom of Carrots. Eko stood at the front of the formation, wearing full armour.
@@ -882,8 +882,8 @@ EKO: "Let's finish this."
 
 The allied force began its march toward the kingdom. Carrot patrols spotted them and sounded the alarm.
 
-The gates of the fortress opened. The final confrontation with the Vegetable Empire was beginning.\`,
-"3-2": \`PART 2: THE BETRAYAL
+The gates of the fortress opened. The final confrontation with the Vegetable Empire was beginning.`,
+"3-2": `PART 2: THE BETRAYAL
 Location: Kingdom of Carrots.
 
 The battle moved through the outer fortress. Eko and the allies pushed forward, but the Carrot King had prepared a hidden trap.
@@ -906,8 +906,8 @@ CARROT KING: "Subject Poga. Awaiting orders."
 
 The robotic cat turned toward the battlefield.
 
-The King had turned Poga into a weapon.\`,
-"3-3": \`PART 3: THE MONSTER WITHIN
+The King had turned Poga into a weapon.`,
+"3-3": `PART 3: THE MONSTER WITHIN
 Location: Kingdom of Carrots.
 
 Eko reached the laboratory entrance and saw the giant robotic cat standing in the ruins.
@@ -940,8 +940,8 @@ The parasite surged through the machine. Its eyes turned red again, and it aimed
 
 Eko moved back as the robotic cat advanced.
 
-The real Poga was still somewhere inside the machine, trying to resist.\`,
-"3-4": \`PART 4: THE REVIVAL
+The real Poga was still somewhere inside the machine, trying to resist.`,
+"3-4": `PART 4: THE REVIVAL
 Location: Kingdom of Carrots.
 
 Eko was injured during the fight. Medic Gubbys rushed forward and formed a protective line around him.
@@ -974,8 +974,8 @@ Poga's eyes changed from red to blue.
 
 POGA: "Bye..."
 
-Eko stared up at him as the parasite system began to overload.\`,
-"3-5": \`PART 5: THE EXPLOSION
+Eko stared up at him as the parasite system began to overload.`,
+"3-5": `PART 5: THE EXPLOSION
 Location: Kingdom of Carrots.
 
 The robotic cat stood in the centre of the ruined battlefield. Blue light pulsed through cracks in its armour.
@@ -1006,5 +1006,5 @@ His communicator showed one final status.
 
 POGA SIGNAL: LOST.
 
-Eko stood silently among the damaged machines and scattered equipment.\`
+Eko stood silently among the damaged machines and scattered equipment.`
 };
