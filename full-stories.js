@@ -1,4 +1,4 @@
-// Reconstructed full chapters based on the original plot notes preserved from the story chat.
+// Season 1 Parts 4–6 are transcribed from the preserved story chat. Other chapters are reconstructed from available plot notes.
 // Season 3 Parts 6–12 remain in index.html as the preserved full versions.
 const expandedStories = {
 "1-1": \`POGA & EKO — PART 1: THE BEGINNING
@@ -102,111 +102,348 @@ CARROT KING: "You have entered the territory of the Vegetable Empire. Your plane
 Poga and Eko looked at the army gathering behind the tank.
 
 Their mission had become a war.\`,
-"1-4": \`PART 4: THE HOTDOG LAUNCHER
-Carrot Planet — Underground Prison Complex.
+"1-4": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+PART 4 — EKO'S REVENGE
+Location: Carrot Planet • Year: 1991
 
-The carrot army advanced through the prison district. Eko searched a storage room while Poga tried to find an exit route.
+THE ANGER
 
-Behind a reinforced door, Eko discovered a container marked TOP SECRET — HOTDOG MILITARY TECHNOLOGY.
+The battlefield was completely surrounded by the Vegetable Empire. Poga stood near the destroyed communication terminal, trying to contact Earth. Eko watched the Carrot King and his enormous army as thousands of carrots flew above them.
 
-EKO: "Now that's interesting."
+The Carrot King laughed. "YOU TWO THINK YOU CAN DEFEAT THE VEGETABLE EMPIRE?"
 
-The container opened. Inside was a futuristic launcher with a glowing energy chamber.
+Eko slowly looked at Poga, then at the carrots, then at the King. He was getting REALLY pissed.
 
-A label read: LEGENDARY HOTDOG LAUNCHER.
+"Eko? Are you alright?" Poga asked.
 
-Eko lifted it. The weapon powered on and displayed a green status light.
+Eko didn't answer. He suddenly started barking aggressively.
 
-POGA: "Where did you find that?"
-EKO: "Military supplies."
+WOOF! WOOF! WOOF!
 
-They moved toward the main prison corridor. An enormous mechanical structure began rising from beneath the facility. Its metal panels unfolded around a glowing core.
+THE HOTDOG LAUNCHER
 
-The Carrot King appeared on every screen.
+Eko noticed a strange military container beside the destroyed prison entrance. It was marked:
 
-CARROT KING: "PROJECT: GOLDEN CARROT IS ENTERING ITS FINAL STAGE."
+TOP SECRET — HOTDOG MILITARY TECHNOLOGY
 
-The ground shook. The machine's enormous silhouette filled the underground chamber.
+Inside was an enormous weapon: THE HOTDOG LAUNCHER. It was a legendary weapon developed by an unknown civilization, capable of launching enormous energy-powered hotdogs.
 
-Eko raised the launcher.
+Eko grabbed it.
 
-EKO: "I think we should stop that."
-POGA: "For once, I agree."
+"EKO! WHERE DID YOU FIND THAT?!" Poga stared.
 
-They headed toward the surface as the Golden Carrot machine powered up.\`,
-"1-5": \`PART 5: THE CARROT BATTLE
-Carrot Planet — Surface and Orbit.
+The weapon activated.
 
-The battle began across the planet. Carrot soldiers advanced between the buildings while Eko flew above them with the Hotdog Launcher.
+HOTDOG LAUNCHER ONLINE.
 
-Poga reached a control terminal and began searching for the command network. The screen displayed hundreds of connected soldier units.
+A blue energy field surrounded Eko. His superpowers became even stronger.
 
-POGA: "Found their control system."
+THE RETURN TO THE PRISON
 
-He worked through the security interface. One by one, the carrot soldiers stopped moving.
+The Carrot King noticed the weapon. "NO... IMPOSSIBLE!"
 
-Above the planet, the Galactic Defence Fleet engaged the Vegetable Empire's spacecraft. Bright flashes crossed the sky as ships manoeuvred around the planet.
+Eko jumped into the air. His rocket-powered flight activated, and he accelerated towards the prison complex.
 
-The Golden Carrot machine rose above the city. Its reactor glowed brighter with every second.
+"EKO! WHERE ARE YOU GOING?!" Poga shouted.
 
-CARROT KING: "You cannot stop the Vegetable Empire!"
+Eko was already disappearing into the clouds. The Carrot King ordered his soldiers to follow him.
 
-Eko aimed the launcher at the machine's reactor.
+"STOP THAT CORGI! DO NOT LET HIM REACH THE PRISON!"
 
-EKO: "Watch me."
+Hundreds of flying carrots launched into the sky, but Eko was too fast. He flew through the clouds, passing several carrot fighter aircraft. The Hotdog Launcher began glowing.
 
-He fired. A gigantic energy hotdog crossed the battlefield and struck the reactor housing. The Golden Carrot shuddered, lost power, and collapsed into the dust.
+Meanwhile, inside the prison, hundreds of carrot soldiers were preparing for another security operation. The radar detected an unidentified flying object.
 
-The carrot soldiers froze as Poga's shutdown command spread through the network.
+WARNING: OBJECT APPROACHING.
 
-For a moment, the battlefield was silent.
+One guard shouted, "IT'S THE CORGI!"
 
-Then a deep-space transmission interrupted the shuttle's receiver.
+THE PRISON ATTACK
 
-UNKNOWN TRANSMISSION: "Carrot Planet... this is only the beginning."
+Eko approached the prison at incredible speed. The facility went into emergency lockdown. Red lights flashed as the prison commander activated the security barriers.
 
-The navigation display changed.
+Eko landed directly in front of the main entrance. The guards surrounded him.
+
+"DROP THE WEAPON!"
+
+Eko looked at them, then at his Hotdog Launcher, then at the prison.
+
+Suddenly, the enormous prison doors began opening.
+
+Standing inside was Poga. He had somehow managed to escape the other side of the facility.
+
+"EKO! YOU ACTUALLY CAME BACK!"
+
+Eko barked proudly.
+
+But something was wrong. The prison's underground doors started opening. A massive mechanical structure emerged from beneath the facility.
+
+It was the Carrot King's secret project.
+
+PROJECT: GOLDEN CARROT.
+
+Poga stared at it. "What... is... THAT?"
+
+The Hotdog Launcher began making strange noises.
+
+WARNING: UNKNOWN ENERGY REACTION.
+
+The Carrot King appeared on the giant communication screen.
+
+"YOU HAVE JUST ACTIVATED THE FINAL STAGE."
+
+END OF PART 4.\`,
+"1-5": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+PART 5 — THE CARROT BATTLE
+Location: Carrot Planet • Year: 1991
+Mission Status: TOTAL CHAOS
+
+The sky above Carrot Planet turned completely red. Thousands of carrot fighter ships emerged from behind the planet's enormous orange moon. Their engines illuminated the clouds as the entire carrot army prepared for war.
+
+Inside the prison courtyard, Eko stood beside Poga, holding the legendary Hotdog Launcher.
+
+Poga looked at the enormous machine rising from underground. "Eko... I think we should leave."
+
+Eko stared at the machine. "Not without destroying this stupid carrot empire."
+
+PROJECT: GOLDEN CARROT activated. Its enormous mechanical arms unfolded, and its central reactor began glowing bright orange.
+
+WARNING: PLANETARY DEFENCE SYSTEM ACTIVATED.
+
+The Carrot King appeared on every screen across the planet.
+
+"MY LOYAL CARROTS! TODAY WE DESTROY THE LAST RESISTANCE!"
+
+Thousands of carrot soldiers raised their weapons.
+
+"Ready?" Eko asked.
+
+Poga sighed. "No. But let's do it."
+
+THE FIRST ATTACK
+
+The carrot army charged. Eko activated the Hotdog Launcher.
+
+HOTDOG LAUNCHER: MAXIMUM POWER.
+
+A massive glowing hotdog shot across the battlefield and exploded in a huge flash of light, sending carrot robots flying into the air.
+
+Poga jumped onto a nearby control platform and started pressing random buttons.
+
+"POGA! WHAT ARE YOU DOING?"
+
+"I'M HACKING THEIR SYSTEM!"
+
+"DO YOU EVEN KNOW HOW?"
+
+"NO!"
+
+Suddenly, the carrot army's communication system shut down. Every carrot soldier stopped moving.
+
+SYSTEM ERROR: HOTDOG DETECTED.
+
+Eko stared at Poga. "...How?"
+
+"NO IDEA!"
+
+THE SPACE BATTLE
+
+Above the planet, the carrot fleet began attacking. Hundreds of spacecraft filled the sky.
+
+The Galactic Defence Fleet, previously hidden behind the planet's moon, finally arrived.
+
+"THIS IS GALACTIC COMMAND. WE HAVE DETECTED AN ILLEGAL CARROT MILITARY OPERATION."
+
+Eko looked up. "FINALLY. SOME NORMAL PEOPLE."
+
+The two fleets faced each other. A gigantic carrot battleship moved toward the Galactic fleet.
+
+"FIRE THE CARROT CANNONS!"
+
+Bright orange energy beams crossed the sky. The Galactic ships responded, and the entire planet's atmosphere lit up.
+
+THE GOLDEN CARROT
+
+Back on the surface, PROJECT: GOLDEN CARROT began transforming. Its legs emerged from the ground. Its head opened, revealing a massive glowing reactor.
+
+The Carrot King climbed into its control chamber.
+
+"YOU CANNOT DEFEAT ME! I AM THE CARROT KING!"
+
+Eko looked at the machine. Poga looked at the Hotdog Launcher.
+
+"Eko... I have an idea."
+
+"What?"
+
+"THE HOTDOG."
+
+Eko understood immediately. He pointed the launcher toward the machine.
+
+ENERGY LEVEL: 100%
+HOTDOG CORE: OVERLOADED
+
+The Carrot King started panicking.
+
+"WAIT! WAIT! WE CAN NEGOTIATE!"
+
+Eko pressed the activation button. A gigantic glowing hotdog flew toward PROJECT: GOLDEN CARROT.
+
+The impact created a blinding flash. The entire machine powered down. Its reactor went dark, and the carrot soldiers froze.
+
+For the first time in 300 years, the Carrot Empire had lost control of its military system.
+
+THE END OF THE BATTLE?
+
+Poga climbed onto Eko's back. "WE DID IT!"
+
+Eko looked at the burning orange horizon.
+
+A signal appeared on the Hotdog Launcher's screen.
+
+UNKNOWN TRANSMISSION RECEIVED.
+ORIGIN: DEEP SPACE.
+
+A mysterious voice came through the speaker.
+
+"Carrot Planet... this is only the beginning."
+
+Eko slowly turned toward the stars.
+
+"Please tell me that's not another vegetable," Poga said.
+
+The screen flashed.
 
 NEXT DESTINATION: POTATO GALAXY.
 
-Poga and Eko looked at the screen.
+END OF PART 5.\`,
+"1-6": \`POGA & EKO: THE GREAT SPACE CARROT INCIDENT
+PART 6 — THE AWAKENING
+Location: Earthbound Shuttle • Year: 1991
+Mission Status: RETURNING TO EARTH
 
-POGA: "We are not getting a normal holiday, are we?"
-EKO: "Nope."\`,
-"1-6": \`PART 6: THE AWAKENING
-Location: Shuttle, deep space.
+THE SILENCE
 
-The shuttle drifted through space on its route back toward Earth. Its interior was damaged, but the navigation system was still working.
+The shuttle was travelling through deep space.
 
-Eko sat near the cockpit in his upgraded suit. The Hotdog Launcher rested beside him.
+Outside the window, Earth was slowly getting closer.
 
-Behind him, a medical monitor beeped.
+Eko was sitting in the pilot's seat. His upgraded astronaut suit was connected to the shuttle's systems. His red eyes were still glowing faintly.
 
-Poga slowly opened his eyes.
+The shuttle was badly damaged. Warning lights flashed across the control panel.
 
-POGA: "Where... are we?"
+ENGINE DAMAGE: 67%
+OXYGEN: STABLE
+DESTINATION: EARTH
+ESTIMATED ARRIVAL: 04:32 HOURS
 
-Eko turned around immediately.
+Behind Eko, Poga was lying in a medical bed. He had been unconscious ever since the battle on Carrot Planet.
 
-EKO: "You're awake!"
+Eko occasionally turned around to check on him.
 
-Poga tried to sit up. He looked at the medical equipment, then at the damaged cabin.
+But there was no movement.
 
-POGA: "What happened?"
-EKO: "Long story. Carrots, explosions, a giant machine. You know. Normal Tuesday."
+THE FIRST MOVEMENT
 
-Poga looked through the window. A blue planet was visible in the distance.
+Suddenly, the medical monitor started beeping.
 
-POGA: "Earth..."
+BEEP... BEEP... BEEP...
 
-Eko helped him get comfortable and checked the shuttle's systems. The engine was still running, although several warning lights remained active.
+Eko turned around. He looked at the screen. Poga's heartbeat was changing.
 
-POGA: "Are we going home?"
-EKO: "That's the plan."
+Eko immediately stood up.
 
-Poga looked at the approaching planet. After everything on Carrot Planet, Earth seemed impossibly peaceful.
+"Poga?"
 
-The shuttle continued its journey.\`,
+Poga's paw moved slightly. His eyes slowly opened.
+
+The medical monitor displayed:
+
+PATIENT CONSCIOUS.
+
+Eko rushed towards the bed.
+
+"Poga?! CAN YOU HEAR ME?"
+
+Poga slowly looked around. His vision was blurry. He noticed the damaged shuttle ceiling.
+
+Then he saw Eko.
+
+"...Eko?"
+
+Eko barked excitedly.
+
+"YOU'RE AWAKE!"
+
+Poga tried to sit up.
+
+"Where... are we?"
+
+Eko pointed towards the window.
+
+Poga turned his head.
+
+There it was.
+
+EARTH.
+
+The blue planet was visible through the shuttle window. Poga stared at it for several seconds.
+
+"We made it..."
+
+Eko nodded.
+
+THE DAMAGE REPORT
+
+Poga noticed Eko's upgraded suit.
+
+"What happened to you?"
+
+Eko looked down at his mechanical equipment, then showed Poga the Hotdog Launcher attached to his suit.
+
+Poga stared.
+
+"You STILL have that thing?"
+
+Eko barked.
+
+Poga looked around the shuttle.
+
+"What happened to our ship?"
+
+Eko pointed towards the damaged control panel.
+
+The shuttle had suffered serious damage during their escape from Carrot Planet. Several systems were offline, the navigation computer was malfunctioning, and the rear engine was barely operating.
+
+Poga slowly got out of the medical bed. He approached the window and looked at Earth.
+
+After everything they had experienced, they were finally going home.
+
+RETURN TO EARTH
+
+Eko returned to the pilot's seat. Poga sat beside him.
+
+The navigation computer displayed:
+
+EARTH APPROACH CONFIRMED.
+
+Eko activated the landing preparation sequence. The shuttle slowly rotated towards Earth.
+
+Blue atmospheric light began reflecting across the cockpit windows.
+
+Poga looked at Eko.
+
+"Let's never go to another carrot planet again."
+
+Eko barked.
+
+The two astronauts watched Earth grow larger through the shuttle window.
+
+For the first time in weeks, everything was quiet.
+
+Their mission was finally coming to an end.
+
+END OF PART 6.\`,
 "1-7": \`PART 7: THE HOTDOG
 Location: Deep space.
 
