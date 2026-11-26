@@ -3,40 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#171a1d">
+<meta name="theme-color" content="#ffffff">
 <title>Poga & Eko — The Great Space Carrot Incident</title>
 <style>
-:root{color-scheme:dark;--bg:#111416;--panel:#1b2023;--panel2:#232a2e;--text:#f3f0e9;--muted:#aeb6b8;--accent:#f0a33a;--line:#394247;--green:#a7c88b}
-*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 80% 0%,#343126 0,transparent 38%),var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,Segoe UI,sans-serif}
-header{padding:58px 22px 42px;border-bottom:1px solid var(--line);background:linear-gradient(120deg,rgba(18,22,24,.96),rgba(50,42,27,.85)),repeating-linear-gradient(135deg,transparent 0 18px,rgba(255,255,255,.025) 19px 20px)}
-.wrap{width:min(1120px,100% - 36px);margin:auto}.eyebrow{color:var(--accent);font-size:.76rem;font-weight:800;letter-spacing:.2em;text-transform:uppercase}
-h1{font-size:clamp(2.25rem,6vw,4.8rem);line-height:1.02;max-width:850px;margin:12px 0}.subtitle{color:var(--muted);max-width:650px}
-.stats{display:flex;gap:12px;flex-wrap:wrap;margin-top:25px}.stat{background:#ffffff0b;border:1px solid var(--line);border-radius:12px;padding:8px 13px;color:var(--muted);font-size:.88rem}.stat strong{color:var(--text)}
-main{display:grid;grid-template-columns:275px minmax(0,1fr);gap:24px;padding:28px 0 70px}
-aside,.reader{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden}
-aside{align-self:start;position:sticky;top:14px;max-height:calc(100vh - 28px);overflow:auto}
-.sidehead{padding:17px;border-bottom:1px solid var(--line)}.sidehead h2{font-size:1rem;margin:0 0 10px}
-input,select{width:100%;background:#111719;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:10px 12px;font:inherit}
-.season{padding:14px 17px 5px;color:var(--accent);font-weight:800;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase}
-.partlink{display:block;padding:9px 17px;color:var(--muted);text-decoration:none;border-left:3px solid transparent;font-size:.91rem}
-.partlink:hover,.partlink.active{background:var(--panel2);color:var(--text);border-left-color:var(--accent)}
-.reader{min-height:620px}.reader-top{padding:25px 28px 18px;border-bottom:1px solid var(--line);background:linear-gradient(120deg,#252a2c,#20201c)}
-.reader-top h2{font-size:clamp(1.6rem,4vw,2.5rem);line-height:1.15;margin:7px 0}.meta{color:var(--muted);font-size:.9rem}
-.cover{height:190px;margin:22px 28px 0;border:1px dashed #697174;border-radius:13px;display:grid;place-items:center;text-align:center;color:var(--muted);background:radial-gradient(ellipse at center,#42402f55,transparent 70%),#14191b;padding:18px}
-.cover strong{display:block;color:var(--text);font-size:1.05rem}.cover small{display:block;margin-top:5px}
-.story{padding:25px 28px 12px;white-space:pre-wrap;font-size:1rem;line-height:1.85}.story p{margin:0 0 1em}.story .dialogue{color:#f4d49e}
-.notice{margin:10px 28px 24px;padding:12px 14px;background:#ffffff08;border-left:3px solid var(--green);color:var(--muted);font-size:.88rem}
-.controls{display:flex;justify-content:space-between;gap:12px;padding:18px 28px 25px;border-top:1px solid var(--line)}button{background:var(--accent);border:0;color:#20180e;font-weight:800;padding:10px 16px;border-radius:9px;cursor:pointer}button:disabled{opacity:.35;cursor:not-allowed}.secondary{background:var(--panel2);color:var(--text);border:1px solid var(--line)}
-footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:.88rem}
-@media(max-width:800px){main{grid-template-columns:1fr}aside{position:static;max-height:360px}.reader{min-height:0}.cover{margin:16px 17px 0}.story{padding:20px 18px}.reader-top{padding:20px 18px}.notice{margin:8px 18px 20px}.controls{padding:16px 18px}}
+:root{color-scheme:light;--bg:#fff;--panel:#fff;--text:#111;--muted:#555;--line:#ddd;--soft:#f4f4f4}
+*{box-sizing:border-box}html{scroll-behavior:auto}
+body{margin:0;background:#fff;color:#111;font:17px/1.75 Georgia,"Times New Roman",serif}
+.wrap{width:min(1080px,100% - 40px);margin:auto}
+header{padding:42px 0 30px;border-bottom:1px solid #ddd}
+.eyebrow{font:700 .72rem/1.4 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#555}
+h1{font:700 clamp(2rem,5vw,3.2rem)/1.1 Arial,sans-serif;letter-spacing:-.04em;margin:9px 0}
+.subtitle{font:15px/1.6 Arial,sans-serif;color:#555;max-width:650px}
+.stats{display:flex;gap:20px;flex-wrap:wrap;margin-top:18px;font:13px Arial,sans-serif;color:#555}.stats strong{color:#111}
+main{display:grid;grid-template-columns:245px minmax(0,1fr);gap:44px;padding:28px 0 60px}
+aside{align-self:start;position:sticky;top:18px;max-height:calc(100vh - 36px);overflow:auto;border-right:1px solid #ddd;padding-right:18px}
+.sidehead{padding-bottom:14px;border-bottom:1px solid #ddd}.sidehead h2{font:700 16px Arial,sans-serif;margin:0 0 10px}
+input{width:100%;padding:9px 10px;border:1px solid #bbb;border-radius:0;background:#fff;color:#111;font:14px Arial,sans-serif}
+.season{padding:18px 0 5px;font:700 12px Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#555}
+.partlink{display:block;padding:5px 8px;color:#333;text-decoration:none;font:14px/1.45 Arial,sans-serif;border-left:2px solid transparent}
+.partlink:hover,.partlink.active{color:#000;background:#f4f4f4;border-left-color:#111}
+.reader{min-width:0}.reader-top{padding:0 0 18px;border-bottom:1px solid #ddd}
+.reader-top h2{font:700 clamp(1.6rem,4vw,2.3rem)/1.2 Georgia,"Times New Roman",serif;margin:8px 0}
+.meta{font:13px Arial,sans-serif;color:#555}.cover{display:none}
+.story{padding:25px 0 18px;white-space:pre-wrap;font-size:18px;line-height:1.9;max-width:760px}
+.notice{padding:12px 0;margin:8px 0 18px;border-top:1px solid #ddd;border-bottom:1px solid #ddd;font:13px/1.6 Arial,sans-serif;color:#555}
+.controls{display:flex;justify-content:space-between;gap:12px;padding:16px 0;border-top:1px solid #ddd}
+button{background:#111;color:#fff;border:1px solid #111;padding:10px 15px;font:14px Arial,sans-serif;cursor:pointer}
+button:disabled{background:#eee;color:#888;border-color:#ddd;cursor:default}.secondary{background:#fff;color:#111}
+footer{border-top:1px solid #ddd;padding:20px 0 35px;color:#666;font:13px/1.6 Arial,sans-serif}
+@media(max-width:760px){.wrap{width:min(100% - 28px,680px)}main{grid-template-columns:1fr;gap:25px}aside{position:static;max-height:260px;border-right:0;border-bottom:1px solid #ddd;padding:0 0 14px}.story{font-size:17px;line-height:1.8}.reader-top h2{font-size:1.7rem}}
+@media print{aside,.controls,footer,.notice{display:none}body{font-size:12pt}.wrap{width:100%}main{display:block}.story{max-width:none}}
 </style>
 </head>
 <body>
 <header><div class="wrap"><div class="eyebrow">A serialized space adventure</div><h1>POGA & EKO</h1><div class="subtitle">THE GREAT SPACE CARROT INCIDENT<br>Two astronauts. One ridiculous amount of hotdogs. An unreasonable number of carrots, keys and rabbits.</div><div class="stats"><div class="stat"><strong>3</strong> seasons</div><div class="stat"><strong>12</strong> latest chapter</div><div class="stat"><strong>1991</strong> mission year</div></div></div></header>
 <div class="wrap"><main>
 <aside><div class="sidehead"><h2>Story library</h2><input id="search" type="search" placeholder="Search chapters…"></div><nav id="nav"></nav></aside>
-<section class="reader" aria-live="polite"><div class="reader-top"><div class="eyebrow" id="seasonLabel">Season 3</div><h2 id="title">Part 6 — The Continuation</h2><div class="meta" id="meta">Earthbound • 1991</div></div><div class="cover" id="cover"><div><strong>Mission image slot</strong><small>Add artwork to the /images folder and connect it to a chapter in the story data.</small></div></div><article class="story" id="story"></article><div class="notice" id="notice">Text note: chapters marked “recap” are summaries, not verbatim copies of the original generated text.</div><div class="controls"><button class="secondary" id="prev">← Previous</button><button id="next">Next chapter →</button></div></section>
-</main><footer>Fan-made story archive • Built for reading on desktop and mobile. Images from earlier chats weren't available as files to import, so this reader includes artwork slots rather than fabricated images.</footer></div>
+<section class="reader" aria-live="polite"><div class="reader-top"><div class="eyebrow" id="seasonLabel">Season 3</div><h2 id="title">Part 6 — The Continuation</h2><div class="meta" id="meta">Earthbound • 1991</div></div><article class="story" id="story"></article><div class="notice" id="notice">Text note: chapters marked “recap” are summaries, not verbatim copies of the original generated text.</div><div class="controls"><button class="secondary" id="prev">← Previous</button><button id="next">Next chapter →</button></div></section>
+</main><footer>A simple, text-first archive of the Poga & Eko story.</footer></div>
 <script src="full-stories.js"></script>
 <script>
 const chapters = [
@@ -1000,6 +1004,6 @@ END OF PART 12.`}
 const nav=document.getElementById('nav'),search=document.getElementById('search');let current=chapters.findIndex(c=>c.season===3&&c.part===6);
 function renderNav(){nav.innerHTML='';let q=search.value.toLowerCase();[1,2,3].forEach(s=>{let items=chapters.filter(c=>c.season===s&&((c.title+' '+c.text).toLowerCase().includes(q)));if(!items.length)return;let label=document.createElement('div');label.className='season';label.textContent='Season '+s;nav.append(label);items.forEach(c=>{let a=document.createElement('a');a.href='#';a.className='partlink'+(chapters.indexOf(c)===current?' active':'');a.textContent='Part '+c.part+' — '+c.title;a.onclick=e=>{e.preventDefault();current=chapters.indexOf(c);render()};nav.append(a)})})}
 function render(){let c=chapters[current];document.getElementById('seasonLabel').textContent='Season '+c.season;document.getElementById('title').textContent='Part '+c.part+' — '+c.title;document.getElementById('meta').textContent='1991 • '+(c.season===3?'Season 3':'Earlier season');document.getElementById('story').textContent=expandedStories[`${c.season}-${c.part}`]||c.text;document.getElementById('notice').textContent=expandedStories[`${c.season}-${c.part}`]?'Reconstructed full chapter based on the original plot and dialogue notes from the story conversation. Season 3 Parts 6–12 are preserved full chapters.':'Full chapter text reproduced from the story conversation.';document.getElementById('prev').disabled=current===0;document.getElementById('next').disabled=current===chapters.length-1;renderNav()}
-document.getElementById('prev').onclick=()=>{if(current>0){current--;render();window.scrollTo({top:0,behavior:'smooth'})}};document.getElementById('next').onclick=()=>{if(current<chapters.length-1){current++;render();window.scrollTo({top:0,behavior:'smooth'})}};search.addEventListener('input',renderNav);render();
+document.getElementById('prev').onclick=()=>{if(current>0){current--;render();window.scrollTo(0,0)}};document.getElementById('next').onclick=()=>{if(current<chapters.length-1){current++;render();window.scrollTo({top:0,behavior:'smooth'})}};search.addEventListener('input',renderNav);render();
 </script>
 </body></html>
